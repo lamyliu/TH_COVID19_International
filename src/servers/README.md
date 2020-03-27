@@ -1,5 +1,3 @@
-# 启动指南
-
 Method
 1. run `npm install`
 2. Modify the configuration file under `/config/formal`, referring to the sample of  `/config/test`
